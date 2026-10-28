@@ -1,5 +1,5 @@
 # Receipt-Scanner
-This is my first project using AI assisted coding, where I learn to develop a solution for a problem that grew linearly.
+This is my first project using AI assisted coding, where I learn to develop a solution for a problem that requires the solution to be accurate and reliable.
 
 What I work on is automating the current process of manually updating an inventory sheet using Gemini AI API and algorithm to match the products name from receipt & invoice image with users custom products list. 
 
