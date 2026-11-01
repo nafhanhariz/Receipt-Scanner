@@ -1,0 +1,6 @@
+.venv/
+graphify-out/
+.opencode/plugins/
+.github/
+.clasp.json
+appscript.json
